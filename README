@@ -1,0 +1,6 @@
+Very simple skeleton version of a google chrome screen scraper I made while working at Traid Unlimited LLC. 
+
+The file is designed to scrape whatever website you are looking at for the specified data and outputs it into a file.
+
+The original purpose was to output to a file which would be transfered into the database and analyzed and operated on from there so right now 
+this file just outputs it to a text file and displays it to the user.  
