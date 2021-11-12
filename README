@@ -4,6 +4,6 @@ The file is designed to scrape whatever website you are looking at for the speci
 
 One use case of this design could be to scrape the data out of an online database platform into a txt file in order to pass that into a proprietary MySQL database.  
 
-Now file just outputs it to a text file and displays it to the user.  
+Now file just outputs it to a text file and displays it to the user along with an example of a popup pane.  
 
 Real purpose of this file is so I can teach people how to design simple screen scraping chrome extensionsusing unattached php files
