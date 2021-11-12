@@ -2,8 +2,8 @@ Very simple skeleton version of a google chrome screen scraper I made for my com
 
 The file is designed to scrape whatever website you are looking at for the specified data and outputs it into a file.
 
-The original purpose was to output to a file which would be transfered into the database and analyzed and operated on from there so right now 
+One use case of this design could be to scrape the data out of an online database platform into a txt file in order to pass that into a proprietary MySQL database.  
 
-this file just outputs it to a text file and displays it to the user.  
+Now file just outputs it to a text file and displays it to the user.  
 
 Real purpose of this file is so I can teach people how to design simple screen scraping chrome extensionsusing unattached php files
