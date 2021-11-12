@@ -6,4 +6,7 @@ One use case of this design could be to scrape the data out of an online databas
 
 Now file just outputs it to a text file and displays it to the user along with an example of a popup pane.  
 
+If you want this on a specific webpage only utilize the  "matches": ["http://*"], in the manifest.json on the content script,
+This would only inject the content script on the specified page.
+
 Real purpose of this file is so I can teach people how to design simple screen scraping chrome extensionsusing unattached php files
