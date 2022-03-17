@@ -1,4 +1,4 @@
-Very simple skeleton version of a google chrome screen scraper I made for my company. 
+Very simple skeleton version of a google chrome screen scraper. 
 
 The file is designed to scrape whatever website you are looking at for the specified data and outputs it into a file.
 
@@ -9,4 +9,4 @@ Now file just outputs it to a text file and displays it to the user along with a
 If you want this on a specific webpage only utilize the  "matches": ["http://*"], in the manifest.json on the content script,
 This would only inject the content script on the specified page.
 
-Real purpose of this file is so I can teach people how to design simple screen scraping chrome extensionsusing unattached php files
+Purpose of this file is so I can teach people how to design simple screen scraping chrome extensions using unattached php files
