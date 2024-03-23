@@ -2,11 +2,10 @@ Very simple skeleton version of a google chrome screen scraper.
 
 The file is designed to scrape whatever website you are looking at for the specified data and outputs it into a file.
 
-One use case of this design could be to scrape the data out of an online database platform into a txt file in order to pass that into a proprietary MySQL database.  
+One use case of this design could be to scrape the data out of an webpage into a txt file. 
 
 Now file just outputs it to a text file and displays it to the user along with an example of a popup pane.  
 
-If you want this on a specific webpage only utilize the  "matches": ["http://*"], in the manifest.json on the content script,
-This would only inject the content script on the specified page.
+If you want this on a specific webpage only utilize the  "matches": ["http://*"], in the manifest.json on the content script.
 
-Purpose of this file is so I can teach people how to design simple screen scraping chrome extensions using unattached php files
+Purpose of this file is so I can teach people how to design simple screen scraping chrome extension
